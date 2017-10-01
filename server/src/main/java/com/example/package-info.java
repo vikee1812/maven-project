@@ -1,4 +1,4 @@
 /**
-* This is a comment file for package 
-*/
+ * This is a class.
+ */
 package com.example;
